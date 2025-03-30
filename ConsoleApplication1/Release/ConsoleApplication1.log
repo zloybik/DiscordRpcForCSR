@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\donch\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(5,10): error C1083: Не удается открыть файл включение: httplib.h: No such file or directory,
+  Discord.cpp
+C:\Users\donch\source\repos\ConsoleApplication1\ConsoleApplication1\Discord.cpp(1,10): error C1083: Не удается открыть файл включение: Discord.h: No such file or directory,

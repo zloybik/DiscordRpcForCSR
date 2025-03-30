@@ -1,0 +1,545 @@
+﻿  ConsoleApplication1.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(103,1): warning C4005: AF_IPX: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(457,1):
+  см. предыдущее определение "AF_IPX"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(147,1): warning C4005: AF_MAX: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(476,1):
+  см. предыдущее определение "AF_MAX"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(187,1): warning C4005: SO_DONTLINGER: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(399,1):
+  см. предыдущее определение "SO_DONTLINGER"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(240,25): error C2011: sockaddr: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(482,8):
+   см. объявление "sockaddr"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(442,5): error C2143: синтаксическая ошибка: отсутствие "}" перед "константа"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(442,5): error C2059: синтаксическая ошибка: константа
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(496,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(496,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(496,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(577,1): warning C4005: IN_CLASSA: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(284,1):
+  см. предыдущее определение "IN_CLASSA"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(583,1): warning C4005: IN_CLASSB: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(290,1):
+  см. предыдущее определение "IN_CLASSB"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(589,1): warning C4005: IN_CLASSC: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(296,1):
+  см. предыдущее определение "IN_CLASSC"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(600,1): warning C4005: INADDR_ANY: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(301,1):
+  см. предыдущее определение "INADDR_ANY"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(602,1): warning C4005: INADDR_BROADCAST: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(303,1):
+  см. предыдущее определение "INADDR_BROADCAST"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(638,28): error C2011: sockaddr_in: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(309,8):
+   см. объявление "sockaddr_in"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(136,23): error C2011: fd_set: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(65,16):
+   см. объявление "fd_set"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(171,1): warning C4005: FD_SET: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(99,1):
+  см. предыдущее определение "FD_SET"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(180,16): error C2011: timeval: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(108,8):
+   см. объявление "timeval"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(236,17): error C2011: hostent: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(164,9):
+   см. объявление "hostent"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(249,16): error C2011: netent: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(177,9):
+   см. объявление "netent"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(256,17): error C2011: servent: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(184,9):
+   см. объявление "servent"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(268,18): error C2011: protoent: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(196,9):
+   см. объявление "protoent"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(364,24): error C2011: WSAData: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(319,16):
+   см. объявление "WSAData"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(462,18): error C2011: sockproto: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(491,8):
+   см. объявление "sockproto"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(504,16): error C2011: linger: переопределение типа "struct"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(528,9):
+   см. объявление "linger"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(517,1): warning C4005: SOMAXCONN: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(541,1):
+  см. предыдущее определение "SOMAXCONN"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(551,1): warning C4005: FD_READ: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(559,1):
+  см. предыдущее определение "FD_READ"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(554,1): warning C4005: FD_WRITE: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(560,1):
+  см. предыдущее определение "FD_WRITE"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(557,1): warning C4005: FD_OOB: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(561,1):
+  см. предыдущее определение "FD_OOB"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(560,1): warning C4005: FD_ACCEPT: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(562,1):
+  см. предыдущее определение "FD_ACCEPT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(563,1): warning C4005: FD_CONNECT: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(563,1):
+  см. предыдущее определение "FD_CONNECT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(566,1): warning C4005: FD_CLOSE: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(564,1):
+  см. предыдущее определение "FD_CLOSE"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1631,1): error C2375: accept: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(739,19):
+   см. объявление "accept"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1653,1): error C2375: bind: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(744,16):
+   см. объявление "bind"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1674,1): error C2375: closesocket: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(749,16):
+   см. объявление "closesocket"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1691,1): error C2375: connect: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(751,16):
+   см. объявление "connect"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1712,1): error C2375: ioctlsocket: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(756,16):
+   см. объявление "ioctlsocket"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1735,1): error C2375: getpeername: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(761,16):
+   см. объявление "getpeername"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1756,1): error C2375: getsockname: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(766,16):
+   см. объявление "getsockname"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1777,1): error C2375: getsockopt: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(771,16):
+   см. объявление "getsockopt"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1802,1): error C2375: htonl: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(778,19):
+   см. объявление "htonl"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1819,1): error C2375: htons: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(780,20):
+   см. объявление "htons"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1837,1): error C2375: inet_addr: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(782,26):
+   см. объявление "inet_addr"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1855,1): error C2375: inet_ntoa: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(784,23):
+   см. объявление "inet_ntoa"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1955,1): error C2375: listen: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(786,16):
+   см. объявление "listen"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1974,1): error C2375: ntohl: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(790,19):
+   см. объявление "ntohl"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1991,1): error C2375: ntohs: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(792,20):
+   см. объявление "ntohs"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2008,1): error C2375: recv: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(794,16):
+   см. объявление "recv"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2031,1): error C2375: recvfrom: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(800,16):
+   см. объявление "recvfrom"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2058,1): error C2375: select: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(808,16):
+   см. объявление "select"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2083,1): error C2375: send: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(815,16):
+   см. объявление "send"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2106,1): error C2375: sendto: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(821,16):
+   см. объявление "sendto"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2133,1): error C2375: setsockopt: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(829,16):
+   см. объявление "setsockopt"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2158,1): error C2375: shutdown: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(836,16):
+   см. объявление "shutdown"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2178,1): error C2375: socket: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(840,19):
+   см. объявление "socket"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2203,1): error C2375: gethostbyaddr: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(847,33):
+   см. объявление "gethostbyaddr"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2225,1): error C2375: gethostbyname: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(852,33):
+   см. объявление "gethostbyname"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2242,1): error C2375: gethostname: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(854,16):
+   см. объявление "gethostname"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2282,1): error C2375: getservbyport: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(858,33):
+   см. объявление "getservbyport"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2301,1): error C2375: getservbyname: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(862,33):
+   см. объявление "getservbyname"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2320,1): error C2375: getprotobynumber: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(866,34):
+   см. объявление "getprotobynumber"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2337,1): error C2375: getprotobyname: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(868,34):
+   см. объявление "getprotobyname"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2357,1): error C2375: WSAStartup: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(872,16):
+   см. объявление "WSAStartup"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2377,1): error C2375: WSACleanup: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(876,16):
+   см. объявление "WSACleanup"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2394,1): error C2375: WSASetLastError: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(878,17):
+   см. объявление "WSASetLastError"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2411,1): error C2375: WSAGetLastError: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(880,16):
+   см. объявление "WSAGetLastError"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2432,1): error C2375: WSAIsBlocking: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(882,17):
+   см. объявление "WSAIsBlocking"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2450,1): error C2375: WSAUnhookBlockingHook: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(884,16):
+   см. объявление "WSAUnhookBlockingHook"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2468,1): error C2375: WSASetBlockingHook: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(886,20):
+   см. объявление "WSASetBlockingHook"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2486,1): error C2375: WSACancelBlockingCall: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(888,16):
+   см. объявление "WSACancelBlockingCall"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2504,1): error C2375: WSAAsyncGetServByName: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(890,19):
+   см. объявление "WSAAsyncGetServByName"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2532,1): error C2375: WSAAsyncGetServByPort: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(898,19):
+   см. объявление "WSAAsyncGetServByPort"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2560,1): error C2375: WSAAsyncGetProtoByName: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(906,19):
+   см. объявление "WSAAsyncGetProtoByName"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2586,1): error C2375: WSAAsyncGetProtoByNumber: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(913,19):
+   см. объявление "WSAAsyncGetProtoByNumber"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2612,1): error C2375: WSAAsyncGetHostByName: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(920,19):
+   см. объявление "WSAAsyncGetHostByName"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2638,1): error C2375: WSAAsyncGetHostByAddr: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(927,19):
+   см. объявление "WSAAsyncGetHostByAddr"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2668,1): error C2375: WSACancelAsyncRequest: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(936,16):
+   см. объявление "WSACancelAsyncRequest"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2686,1): error C2375: WSAAsyncSelect: переопределение; другое связывание
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(938,16):
+   см. объявление "WSAAsyncSelect"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(4318,1): error C2059: синтаксическая ошибка: }
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(4318,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2ipdef.h(42,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2ipdef.h(42,12): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2ipdef.h(135,1): warning C4005: IP_TOS: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(349,1):
+  см. предыдущее определение "IP_TOS"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2ipdef.h(136,1): warning C4005: IP_TTL: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(348,1):
+  см. предыдущее определение "IP_TTL"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2ipdef.h(137,1): warning C4005: IP_MULTICAST_IF: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(343,1):
+  см. предыдущее определение "IP_MULTICAST_IF"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2ipdef.h(138,1): warning C4005: IP_MULTICAST_TTL: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(344,1):
+  см. предыдущее определение "IP_MULTICAST_TTL"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2ipdef.h(139,1): warning C4005: IP_MULTICAST_LOOP: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(345,1):
+  см. предыдущее определение "IP_MULTICAST_LOOP"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2ipdef.h(140,1): warning C4005: IP_ADD_MEMBERSHIP: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(346,1):
+  см. предыдущее определение "IP_ADD_MEMBERSHIP"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2ipdef.h(141,1): warning C4005: IP_DROP_MEMBERSHIP: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(347,1):
+  см. предыдущее определение "IP_DROP_MEMBERSHIP"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2ipdef.h(142,1): warning C4005: IP_DONTFRAGMENT: изменение макроопределения
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(350,1):
+  см. предыдущее определение "IP_DONTFRAGMENT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(733,10): error C2061: синтаксическая ошибка: идентификатор "MULTICAST_MODE_TYPE"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(740,5): error C2065: PIP_MSFILTER: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(740,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Filter"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(740,18): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(742,9): error C2065: SourceCount: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(743,40): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(743,60): error C2065: SourceList: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(748,12): error C2065: IP_MSFILTER: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(748,12): error C2065: SourceCount: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(749,5): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(749,15): error C2065: PIP_MSFILTER: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(749,29): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "HeapAlloc"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(750,9): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(755,5): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(756,5): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(757,5): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(757,26): error C2065: FilterMode: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(758,5): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(758,27): error C2065: SourceCount: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(759,9): error C2065: SourceCount: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(760,9): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(760,9): error C2065: SourceList: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(760,9): error C2065: SourceCount: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(760,9): error C2660: memcpy: функция не принимает 2 аргументов
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_string.h(43,15):
+   см. объявление "memcpy"
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(760,9):
+  при попытке сопоставить список аргументов "()"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(764,47): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(767,35): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(779,11): error C2061: синтаксическая ошибка: идентификатор "MULTICAST_MODE_TYPE"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(786,5): error C2065: PIP_MSFILTER: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(786,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Filter"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(786,18): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(788,10): error C2065: SourceCount: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(789,40): error C2065: Filter: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(789,60): error C2065: SourceList: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(794,12): error C2065: IP_MSFILTER: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(794,12): error C2065: SourceCount: необъявленный идентификатор
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ws2tcpip.h(794,12): error C1003: число ошибок превышает 100; остановка компиляции
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
